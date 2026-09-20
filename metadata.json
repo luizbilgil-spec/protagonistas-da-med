@@ -1,0 +1,6 @@
+{
+  "name": "Protagonistas da Med - Anatomia, Farmacologia & Residência",
+  "description": "Plataforma avançada de estudos médicos para estudantes de medicina: flashcards com repetição espaçada (SM-2), integração Anki, simulados cronometrados de residência, banco de questões comentadas, casos clínicos reais e mentoria personalizada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
